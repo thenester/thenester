@@ -1,4 +1,4 @@
-## Hi there, Denys here 👋
+## Hello there, Denys here 👋
 
 - 🔭 I’m currently working on open networking solutions, e.g. SONiC
 - 🌎 Open for cooperation in projects focused on systems programming in networking domain
