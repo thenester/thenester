@@ -1,4 +1,4 @@
-## Hello there, Denys here 👋
+## Hello, I'm Denys 👋
 
 - 🖥️ Linux is the way
 - 🔭 Working on open networking solutions, currently focused on SONiC
